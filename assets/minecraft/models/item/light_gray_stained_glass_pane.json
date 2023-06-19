@@ -1,0 +1,19 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:block/light_gray_stained_glass"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 13912901 }, "model": "meow:ui/belt_ui"},
+    { "predicate": { "custom_model_data": 13912902 }, "model": "meow:ui/dorlach_ui"},
+    { "predicate": { "custom_model_data": 13912903 }, "model": "meow:ui/bracelet_ui"},
+    { "predicate": { "custom_model_data": 13912904 }, "model": "meow:ui/ornament_ui"},
+    { "predicate": { "custom_model_data": 13912905 }, "model": "meow:ui/necklace_ui_up"},
+    { "predicate": { "custom_model_data": 13912906 }, "model": "meow:ui/necklace_ui_down"},
+    { "predicate": { "custom_model_data": 13912907 }, "model": "meow:ui/cap_ui"},
+    { "predicate": { "custom_model_data": 13912908 }, "model": "meow:ui/underwaist_ui"},
+    { "predicate": { "custom_model_data": 13912909 }, "model": "meow:ui/trousers_ui"},
+    { "predicate": { "custom_model_data": 13912910 }, "model": "meow:ui/socks_ui"},
+    { "predicate": { "custom_model_data": 13912999 }, "model": "meow:ui/x_ui"}
+        ]
+}
