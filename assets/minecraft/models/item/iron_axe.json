@@ -4,7 +4,7 @@
     "layer0": "minecraft:item/iron_axe"
   },
   "overrides": [
-    { "predicate": { "custom_model_data": 13912110 }, "model": "meow:item/battle_axe"},
-    { "predicate": { "custom_model_data": 13912130 }, "model": "meow:item/warhammer"}
+    { "predicate": { "custom_model_data": 9121010 }, "model": "meow:item/battle_axe"},
+    { "predicate": { "custom_model_data": 9121040 }, "model": "meow:item/warhammer"}
         ]
 }
