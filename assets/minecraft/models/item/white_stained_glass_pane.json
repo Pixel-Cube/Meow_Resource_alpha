@@ -4,13 +4,13 @@
     "layer0": "minecraft:block/white_stained_glass"
   },
   "overrides": [
-    { "predicate": { "custom_model_data": 13912900 }, "model": "meow:ui/ui"},
-    { "predicate": { "custom_model_data": 13912910 }, "model": "meow:ui/back"},
-    { "predicate": { "custom_model_data": 13912911 }, "model": "meow:ui/up"},
-    { "predicate": { "custom_model_data": 13912912 }, "model": "meow:ui/down"},
-    { "predicate": { "custom_model_data": 13912913 }, "model": "meow:ui/right"},
-    { "predicate": { "custom_model_data": 13912914 }, "model": "meow:ui/right_press"},
-    { "predicate": { "custom_model_data": 13912919 }, "model": "meow:ui/go"},
-    { "predicate": { "custom_model_data": 13912931 }, "model": "meow:ui/mooring_soul_necklace_assembled_0"}
+    { "predicate": { "custom_model_data": 9129000 }, "model": "meow:ui/ui"},
+    { "predicate": { "custom_model_data": 9129100 }, "model": "meow:ui/back"},
+    { "predicate": { "custom_model_data": 9129110 }, "model": "meow:ui/up"},
+    { "predicate": { "custom_model_data": 9129120 }, "model": "meow:ui/down"},
+    { "predicate": { "custom_model_data": 9129130 }, "model": "meow:ui/right"},
+    { "predicate": { "custom_model_data": 9129140 }, "model": "meow:ui/right_press"},
+    { "predicate": { "custom_model_data": 9129190 }, "model": "meow:ui/go"},
+    { "predicate": { "custom_model_data": 9129310 }, "model": "meow:ui/mooring_soul_necklace_assembled_0"}
         ]
 }
