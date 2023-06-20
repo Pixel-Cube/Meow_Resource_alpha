@@ -7,7 +7,7 @@
     "overrides": [
       { "predicate": { "custom_model_data": 9126110 }, "model": "meow:item/armor_piercing_arrow"},
       { "predicate": { "custom_model_data": 9126111 }, "model": "meow:item/extended_range_arrow"},
-      { "predicate": { "custom_model_data": 9126112 }, "model": "meow:item/extended_range_arrow"},
+      { "predicate": { "custom_model_data": 9126112 }, "model": "meow:item/shadow_catcher_arrow"},
       { "predicate": { "custom_model_data": 9126113 }, "model": "meow:item/yi"}
           ]
 }
