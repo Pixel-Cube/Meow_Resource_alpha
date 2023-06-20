@@ -71,7 +71,7 @@
         { "predicate": { "time": 0.9921875 }, "model": "item/clock" },
         { "predicate": { "custom_model_data": 9123910 }, "model": "meow:item/belt"},
         { "predicate": { "custom_model_data": 9123920 }, "model": "meow:item/dorlach_unfilled"},
-        { "predicate": { "custom_model_data": 912421 }, "model": "meow:item/dorlach_loaded"},
+        { "predicate": { "custom_model_data": 9123921 }, "model": "meow:item/dorlach_loaded"},
         { "predicate": { "custom_model_data": 9124100 }, "model": "meow:item/mooring_soul_necklace_item_0"},
         { "predicate": { "custom_model_data": 9125510 }, "model": "meow:item/greedatory_bracelet"},
         { "predicate": { "custom_model_data": 9125520 }, "model": "meow:item/gluttony_bracelet"}
