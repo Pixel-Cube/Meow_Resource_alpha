@@ -26,7 +26,6 @@
         }
     },
     "overrides": [
-        { "predicate": { "custom_model_data": 9122200 }, "model": "meow:item/horn_bow"},
         {
             "predicate": {
                 "pulling": 1
@@ -46,6 +45,12 @@
                 "pull": 0.9
             },
             "model": "item/bow_pulling_2"
-        }
+        },
+        { "predicate": { "custom_model_data": 9122200 }, "model": "meow:item/horn_bow"},
+        { "predicate": { "custom_model_data": 9122200, "pulling": 1 }, "model": "meow:item/horn_bow_pulling_0"},
+        { "predicate": { "custom_model_data": 9122200, "pulling": 1,"pull": 0.3 }, "model": "meow:item/horn_bow_pulling_1"},
+        { "predicate": { "custom_model_data": 9122200, "pulling": 1,"pull": 0.6 }, "model": "meow:item/horn_bow_pulling_2"},
+        { "predicate": { "custom_model_data": 9122200, "pulling": 1,"pull": 0.9 }, "model": "meow:item/horn_bow_pulling_3"}
+
     ]
 }

@@ -4,6 +4,7 @@
     "layer0": "minecraft:block/white_stained_glass"
   },
   "overrides": [
+    { "predicate": { "custom_model_data": 9120000 }, "model": "meow:ui/empty"},
     { "predicate": { "custom_model_data": 9129000 }, "model": "meow:ui/ui"},
     { "predicate": { "custom_model_data": 9129100 }, "model": "meow:ui/back"},
     { "predicate": { "custom_model_data": 9129110 }, "model": "meow:ui/up"},
